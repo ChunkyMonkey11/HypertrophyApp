@@ -37,14 +37,14 @@ class MenuChecker:
             response.raise_for_status()
             data = response.json()
             if data.get("code") == 200:
-                print(f"✅ {date_str}: Fetched {category_name} menu")
+                print(f" {date_str}: Fetched {category_name} menu")
                 return data.get("data", {})
             else:
-                print(f"⚠️ {date_str}: API error for {category_name}: {data.get('message', 'No message')}")
+                print(f" {date_str}: API error for {category_name}: {data.get('message', 'No message')}")
         except requests.RequestException as e:
-            print(f"❌ {date_str}: Request error for {category_name}: {e}")
+            print(f" {date_str}: Request error for {category_name}: {e}")
         except ValueError:
-            print(f"❌ {date_str}: Response parsing error for {category_name}")
+            print(f" {date_str}: Response parsing error for {category_name}")
         return None
 
     def fetch_menus_for_date(self, date_str):
@@ -58,7 +58,7 @@ class MenuChecker:
         filename = f"menus_{date_str}.json"
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(daily_menus, f, ensure_ascii=False, indent=2)
-        print(f"💾 Menus for {date_str} saved to {filename}")
+        print(f" Menus for {date_str} saved to {filename}")
 
         return daily_menus
 
@@ -66,9 +66,9 @@ class MenuChecker:
         all_days = {}
         for i in range(num_days):
             date_str = (datetime.today() + timedelta(days=i)).strftime("%Y-%m-%d")
-            print(f"\n📅 Fetching menus for {date_str}...")
+            print(f"\n Fetching menus for {date_str}...")
             all_days[date_str] = self.fetch_menus_for_date(date_str)
-        print("🎉 Finished fetching all menus!")
+        print(" Finished fetching all menus")
         return all_days
 
 
