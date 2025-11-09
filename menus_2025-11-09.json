@@ -1,32 +1,10 @@
 {
   "breakfast": {
     "enableOrdering": false,
-    "menuGorups": [
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      }
-    ],
     "menuItems": [
       {
-        "_id": "689b5b70902cf744484d97e8",
-        "name": "Hot-Dog",
+        "_id": "68a3145f902cf7444855a52a",
+        "name": "Greek Gyro",
         "categoryIds": [
           "61bd80d05f2f930010bb6a81"
         ],
@@ -38,44 +16,46 @@
             "order": 0
           }
         ],
-        "description": "@CIAO : Hot Dog Buns. Choice of All Beef Hot Dog or Plant Base Sausage or with sides of Straight Cut Fries, Grilled Peppers & Onions and Toppings.",
-        "status": "Active",
-        "endDate": "2035-08-31T03:00:00.000Z",
-        "order": 0,
-        "outOfStock": [],
-        "isInfoMenu": false,
-        "menu_no": 28957,
-        "minmaxCaloriesRange": "320 - 1080",
-        "dependentChoicePresent": false,
-        "caloriesInfo": "860 Cal."
-      },
-      {
-        "_id": "689b5adc902cf744484d95d8",
-        "name": "Brunch",
-        "categoryIds": [
-          "61bd80d05f2f930010bb6a81"
-        ],
-        "menuGroupIds": [
-          {
-            "_id": "61bd808b5f2f930010bb6a7a",
-            "status": "Active",
-            "name": "SUNDAY",
-            "order": 0
-          }
-        ],
-        "description": "Pavilion Fall 2025 Brunch",
+        "description": "@CIAO : Protein choice of Beef & Lamb or Greek Style Impossible Steak w/ Veggies (4oz) with sides of Roasted Tomatoes and Onions, Pita Bread (1pc) & Saffron Rice (4oz).  With Toppings.",
         "status": "Active",
         "endDate": "2035-08-31T03:00:00.000Z",
         "order": 0,
         "imageUrl": "",
         "outOfStock": [],
         "isInfoMenu": false,
-        "menu_no": 28956,
+        "menu_no": 29038,
+        "minmaxCaloriesRange": "0 - 1570",
         "dependentChoicePresent": false,
-        "caloriesInfo": "0 Cal."
+        "caloriesInfo": "960 Cal."
       },
       {
-        "_id": "689b598c902cf744484d8b69",
+        "_id": "68a3122eb300cb80ac1ebb81",
+        "name": "Fajitas",
+        "categoryIds": [
+          "61bd80d05f2f930010bb6a81"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          }
+        ],
+        "description": "@CASCABEL: 6\" Flour Tortillas; Protein choice of Fajita Chicken w/ Peppers & Onions (4oz) or Fajita Abbot's Chick'N w/ Peppers & Onions. Cilantro Rice (4oz) and Pinto Beans ((4oz) and Toppings.",
+        "status": "Active",
+        "endDate": "2035-08-31T03:00:00.000Z",
+        "order": 0,
+        "imageUrl": "",
+        "outOfStock": [],
+        "isInfoMenu": false,
+        "menu_no": 29037,
+        "minmaxCaloriesRange": "240 - 1100",
+        "dependentChoicePresent": false,
+        "caloriesInfo": "830 Cal."
+      },
+      {
+        "_id": "68a30f78b300cb80ac1e9a9f",
         "name": "Mindful Meal",
         "categoryIds": [
           "61bd80d05f2f930010bb6a81"
@@ -88,21 +68,21 @@
             "order": 0
           }
         ],
-        "description": "@MINDFUL : Protein Choice of Rosemary Marinated Chicken, Rosemary Marinated Salmon or Rosemary Grilled Portabellas w/ Potatoes, with Sides of Steam Brown Rice, Roasted Veggies and Toppings.",
+        "description": "@MINDFUL : Protein Choice of  Mandarin Orange Chicken, Mandarin Orange Tilapia or Mandarin Orange Fable Shiitake w/ Veggies with Sides of Steamed Brown Rice, Power Blend Stir Fry and Toppings.",
         "status": "Active",
         "endDate": "2035-08-31T03:00:00.000Z",
         "order": 0,
         "imageUrl": "",
         "outOfStock": [],
         "isInfoMenu": false,
-        "menu_no": 28955,
-        "minmaxCaloriesRange": "180 - 1300",
+        "menu_no": 29036,
+        "minmaxCaloriesRange": "110 - 1330",
         "dependentChoicePresent": false,
-        "caloriesInfo": "680 Cal."
+        "caloriesInfo": "690 Cal."
       },
       {
-        "_id": "6899f076902cf74448445fa2",
-        "name": "Filipino Plate",
+        "_id": "68a30f3fb300cb80ac1e98b4",
+        "name": "Brunch",
         "categoryIds": [
           "61bd80d05f2f930010bb6a81"
         ],
@@ -114,487 +94,46 @@
             "order": 0
           }
         ],
-        "description": "@LAKE WOK : Protein Choice of Pork Tocino or Vegan Tofu & Potato Adobo, with Sides of Stir Fry Veggies, Garlic Rice(4oz), Fried Vegetable Lumpia and Toppings.",
+        "description": "Pavilion Spring 2025 Brunch",
         "status": "Active",
         "endDate": "2035-08-31T03:00:00.000Z",
         "order": 0,
         "imageUrl": "",
         "outOfStock": [],
         "isInfoMenu": false,
-        "menu_no": 28936,
-        "minmaxCaloriesRange": "210 - 900",
+        "menu_no": 29035,
         "dependentChoicePresent": false,
-        "caloriesInfo": "630 Cal."
+        "caloriesInfo": "0 Cal."
+      }
+    ],
+    "menuGroups": [
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
       }
     ]
   },
   "lunch": {
     "enableOrdering": false,
-    "menuGorups": [
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd80908b34640010e194b3",
-        "name": "MONDAY",
-        "order": 1
-      },
-      {
-        "_id": "61bd80ab5f2f930010bb6a7d",
-        "name": "TUESDAY",
-        "order": 2
-      },
-      {
-        "_id": "61bd80b08b34640010e194b4",
-        "name": "WEDNESDAY",
-        "order": 3
-      },
-      {
-        "_id": "61bd80b55f2f930010bb6a7e",
-        "name": "THURSDAY",
-        "order": 4
-      },
-      {
-        "_id": "61bd80ba5f2f930010bb6a7f",
-        "name": "FRIDAY",
-        "order": 5
-      },
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd80bf8b34640010e194b6",
-        "name": "SATURDAY",
-        "order": 6
-      },
-      {
-        "_id": "61bd80908b34640010e194b3",
-        "name": "MONDAY",
-        "order": 1
-      },
-      {
-        "_id": "61bd80ab5f2f930010bb6a7d",
-        "name": "TUESDAY",
-        "order": 2
-      },
-      {
-        "_id": "61bd80b08b34640010e194b4",
-        "name": "WEDNESDAY",
-        "order": 3
-      },
-      {
-        "_id": "61bd80b55f2f930010bb6a7e",
-        "name": "THURSDAY",
-        "order": 4
-      },
-      {
-        "_id": "61bd80ba5f2f930010bb6a7f",
-        "name": "FRIDAY",
-        "order": 5
-      },
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd80bf8b34640010e194b6",
-        "name": "SATURDAY",
-        "order": 6
-      },
-      {
-        "_id": "61bd80908b34640010e194b3",
-        "name": "MONDAY",
-        "order": 1
-      },
-      {
-        "_id": "61bd80ab5f2f930010bb6a7d",
-        "name": "TUESDAY",
-        "order": 2
-      },
-      {
-        "_id": "61bd80b08b34640010e194b4",
-        "name": "WEDNESDAY",
-        "order": 3
-      },
-      {
-        "_id": "61bd80b55f2f930010bb6a7e",
-        "name": "THURSDAY",
-        "order": 4
-      },
-      {
-        "_id": "61bd80ba5f2f930010bb6a7f",
-        "name": "FRIDAY",
-        "order": 5
-      },
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd80bf8b34640010e194b6",
-        "name": "SATURDAY",
-        "order": 6
-      },
-      {
-        "_id": "61bd80908b34640010e194b3",
-        "name": "MONDAY",
-        "order": 1
-      },
-      {
-        "_id": "61bd80ab5f2f930010bb6a7d",
-        "name": "TUESDAY",
-        "order": 2
-      },
-      {
-        "_id": "61bd80b08b34640010e194b4",
-        "name": "WEDNESDAY",
-        "order": 3
-      },
-      {
-        "_id": "61bd80b55f2f930010bb6a7e",
-        "name": "THURSDAY",
-        "order": 4
-      },
-      {
-        "_id": "61bd80ba5f2f930010bb6a7f",
-        "name": "FRIDAY",
-        "order": 5
-      },
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd80bf8b34640010e194b6",
-        "name": "SATURDAY",
-        "order": 6
-      },
-      {
-        "_id": "61bd80908b34640010e194b3",
-        "name": "MONDAY",
-        "order": 1
-      },
-      {
-        "_id": "61bd80ab5f2f930010bb6a7d",
-        "name": "TUESDAY",
-        "order": 2
-      },
-      {
-        "_id": "61bd80b08b34640010e194b4",
-        "name": "WEDNESDAY",
-        "order": 3
-      },
-      {
-        "_id": "61bd80b55f2f930010bb6a7e",
-        "name": "THURSDAY",
-        "order": 4
-      },
-      {
-        "_id": "61bd80ba5f2f930010bb6a7f",
-        "name": "FRIDAY",
-        "order": 5
-      },
-      {
-        "_id": "61bd80bf8b34640010e194b6",
-        "name": "SATURDAY",
-        "order": 6
-      },
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd80908b34640010e194b3",
-        "name": "MONDAY",
-        "order": 1
-      },
-      {
-        "_id": "61bd80ab5f2f930010bb6a7d",
-        "name": "TUESDAY",
-        "order": 2
-      },
-      {
-        "_id": "61bd80b08b34640010e194b4",
-        "name": "WEDNESDAY",
-        "order": 3
-      },
-      {
-        "_id": "61bd80b55f2f930010bb6a7e",
-        "name": "THURSDAY",
-        "order": 4
-      },
-      {
-        "_id": "61bd80ba5f2f930010bb6a7f",
-        "name": "FRIDAY",
-        "order": 5
-      },
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd80bf8b34640010e194b6",
-        "name": "SATURDAY",
-        "order": 6
-      },
-      {
-        "_id": "61bd80908b34640010e194b3",
-        "name": "MONDAY",
-        "order": 1
-      },
-      {
-        "_id": "61bd80ab5f2f930010bb6a7d",
-        "name": "TUESDAY",
-        "order": 2
-      },
-      {
-        "_id": "61bd80b08b34640010e194b4",
-        "name": "WEDNESDAY",
-        "order": 3
-      },
-      {
-        "_id": "61bd80b55f2f930010bb6a7e",
-        "name": "THURSDAY",
-        "order": 4
-      },
-      {
-        "_id": "61bd80ba5f2f930010bb6a7f",
-        "name": "FRIDAY",
-        "order": 5
-      },
-      {
-        "_id": "61bd80bf8b34640010e194b6",
-        "name": "SATURDAY",
-        "order": 6
-      },
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd80908b34640010e194b3",
-        "name": "MONDAY",
-        "order": 1
-      },
-      {
-        "_id": "61bd80ab5f2f930010bb6a7d",
-        "name": "TUESDAY",
-        "order": 2
-      },
-      {
-        "_id": "61bd80b08b34640010e194b4",
-        "name": "WEDNESDAY",
-        "order": 3
-      },
-      {
-        "_id": "61bd80b55f2f930010bb6a7e",
-        "name": "THURSDAY",
-        "order": 4
-      },
-      {
-        "_id": "61bd80ba5f2f930010bb6a7f",
-        "name": "FRIDAY",
-        "order": 5
-      },
-      {
-        "_id": "61bd80bf8b34640010e194b6",
-        "name": "SATURDAY",
-        "order": 6
-      },
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd80908b34640010e194b3",
-        "name": "MONDAY",
-        "order": 1
-      },
-      {
-        "_id": "61bd80ab5f2f930010bb6a7d",
-        "name": "TUESDAY",
-        "order": 2
-      },
-      {
-        "_id": "61bd80b08b34640010e194b4",
-        "name": "WEDNESDAY",
-        "order": 3
-      },
-      {
-        "_id": "61bd80b55f2f930010bb6a7e",
-        "name": "THURSDAY",
-        "order": 4
-      },
-      {
-        "_id": "61bd80ba5f2f930010bb6a7f",
-        "name": "FRIDAY",
-        "order": 5
-      },
-      {
-        "_id": "61bd80bf8b34640010e194b6",
-        "name": "SATURDAY",
-        "order": 6
-      },
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd80908b34640010e194b3",
-        "name": "MONDAY",
-        "order": 1
-      },
-      {
-        "_id": "61bd80ab5f2f930010bb6a7d",
-        "name": "TUESDAY",
-        "order": 2
-      },
-      {
-        "_id": "61bd80b08b34640010e194b4",
-        "name": "WEDNESDAY",
-        "order": 3
-      },
-      {
-        "_id": "61bd80b55f2f930010bb6a7e",
-        "name": "THURSDAY",
-        "order": 4
-      },
-      {
-        "_id": "61bd80ba5f2f930010bb6a7f",
-        "name": "FRIDAY",
-        "order": 5
-      },
-      {
-        "_id": "61bd80bf8b34640010e194b6",
-        "name": "SATURDAY",
-        "order": 6
-      },
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd80908b34640010e194b3",
-        "name": "MONDAY",
-        "order": 1
-      },
-      {
-        "_id": "61bd80ab5f2f930010bb6a7d",
-        "name": "TUESDAY",
-        "order": 2
-      },
-      {
-        "_id": "61bd80b08b34640010e194b4",
-        "name": "WEDNESDAY",
-        "order": 3
-      },
-      {
-        "_id": "61bd80b55f2f930010bb6a7e",
-        "name": "THURSDAY",
-        "order": 4
-      },
-      {
-        "_id": "61bd80ba5f2f930010bb6a7f",
-        "name": "FRIDAY",
-        "order": 5
-      },
-      {
-        "_id": "61bd80bf8b34640010e194b6",
-        "name": "SATURDAY",
-        "order": 6
-      },
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd80908b34640010e194b3",
-        "name": "MONDAY",
-        "order": 1
-      },
-      {
-        "_id": "61bd80ab5f2f930010bb6a7d",
-        "name": "TUESDAY",
-        "order": 2
-      },
-      {
-        "_id": "61bd80b08b34640010e194b4",
-        "name": "WEDNESDAY",
-        "order": 3
-      },
-      {
-        "_id": "61bd80b55f2f930010bb6a7e",
-        "name": "THURSDAY",
-        "order": 4
-      },
-      {
-        "_id": "61bd80ba5f2f930010bb6a7f",
-        "name": "FRIDAY",
-        "order": 5
-      },
-      {
-        "_id": "61bd80bf8b34640010e194b6",
-        "name": "SATURDAY",
-        "order": 6
-      },
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd80908b34640010e194b3",
-        "name": "MONDAY",
-        "order": 1
-      },
-      {
-        "_id": "61bd80ab5f2f930010bb6a7d",
-        "name": "TUESDAY",
-        "order": 2
-      },
-      {
-        "_id": "61bd80b08b34640010e194b4",
-        "name": "WEDNESDAY",
-        "order": 3
-      },
-      {
-        "_id": "61bd80b55f2f930010bb6a7e",
-        "name": "THURSDAY",
-        "order": 4
-      },
-      {
-        "_id": "61bd80ba5f2f930010bb6a7f",
-        "name": "FRIDAY",
-        "order": 5
-      },
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
-      {
-        "_id": "61bd80bf8b34640010e194b6",
-        "name": "SATURDAY",
-        "order": 6
-      }
-    ],
     "menuItems": [
       {
-        "_id": "68a3096c902cf7444855427d",
+        "_id": "68a77c48b300cb80ac2f3d8a",
         "name": "Breakfast / Brunch 9:00am - 2:30pm",
         "categoryIds": [
           "61bd80d68b34640010e194b8"
@@ -607,17 +146,17 @@
             "order": 0
           }
         ],
-        "description": "@CASCABEL : Protein Choice of Eggs: Pork Linguica, Scrambled Eggs, Vegan Tofu Scramble, Morning Star Breakfast Patties, Cook's Special: French Toast, Waffles, French Toast Casserole, Pancakes Special of the Day.",
+        "description": "@LAKE WOK : Protein Choice of Eggs: Scramble Eggs, Special Scramble of the Day, Chicken Apple Sauce, Vegan Tofu Scramble, Morning Star Breakfast Patties, Side of Breakfast Potatoes Cookies Choice, and Cook's Special: French Toast, Waffles, Pancakes, French Toast Casserole.",
         "status": "Active",
-        "endDate": "2035-08-31T03:00:00.000Z",
+        "endDate": "2035-08-01T07:00:00.000Z",
         "order": 0,
         "imageUrl": "",
         "outOfStock": [],
         "isInfoMenu": false,
-        "menu_no": 29032,
-        "minmaxCaloriesRange": "0 - 2050",
+        "menu_no": 29098,
+        "minmaxCaloriesRange": "0 - 2230",
         "dependentChoicePresent": false,
-        "caloriesInfo": "360 Cal."
+        "caloriesInfo": "640 Cal."
       },
       {
         "_id": "62dae4016c04ea0010489fa0",
@@ -1437,11 +976,473 @@
         "dependentChoicePresent": false,
         "caloriesInfo": "35 Cal."
       }
+    ],
+    "menuGroups": [
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      }
     ]
   },
   "dinner": {
     "enableOrdering": false,
-    "menuGorups": [],
-    "menuItems": []
+    "menuItems": [],
+    "menuGroups": []
   }
 }

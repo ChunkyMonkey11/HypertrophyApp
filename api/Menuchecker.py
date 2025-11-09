@@ -51,14 +51,22 @@ class MenuChecker:
         daily_menus = {}
         for category_name, category_id in self.categories.items():
             menu_data = self.fetch_menu_for_category(category_name, category_id, date_str)
+
+            # Renames the typo menuGorups to menuGroups (if it exists)
+            if "menuGorups" in menu_data:
+                menu_data['menuGroups'] = menu_data['menuGorups']
+                del menu_data['menuGorups'] # Removes the old data to minimize unnecessary data
+
             if menu_data:
                 daily_menus[category_name] = menu_data
+            
 
         # Save daily menus to JSON file
         filename = f"menus_{date_str}.json"
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(daily_menus, f, ensure_ascii=False, indent=2)
-        print(f"💾 Menus for {date_str} saved to {filename}")
+            print(f"💾 Menus for {date_str} saved to {filename}")
+        
 
         return daily_menus
 
@@ -72,7 +80,7 @@ class MenuChecker:
         return all_days
 
 
-# ---- Run the script ----
+# ---- Run the script ----  
 if __name__ == "__main__":
     menucheck = MenuChecker()
     menus = menucheck.fetch_menus_for_next_days(7)
