@@ -25,8 +25,8 @@
     ],
     "menuItems": [
       {
-        "_id": "68915e80b300cb80acfe8195",
-        "name": "Brunch",
+        "_id": "68a3145f902cf7444855a52a",
+        "name": "Greek Gyro",
         "categoryIds": [
           "61bd80d05f2f930010bb6a81"
         ],
@@ -38,20 +38,21 @@
             "order": 0
           }
         ],
-        "description": "Pavilion Fall 2025 Brunch",
+        "description": "@CIAO : Protein choice of Beef & Lamb or Greek Style Impossible Steak w/ Veggies (4oz) with sides of Roasted Tomatoes and Onions, Pita Bread (1pc) & Saffron Rice (4oz).  With Toppings.",
         "status": "Active",
         "endDate": "2035-08-31T03:00:00.000Z",
         "order": 0,
         "imageUrl": "",
         "outOfStock": [],
         "isInfoMenu": false,
-        "menu_no": 28854,
+        "menu_no": 29038,
+        "minmaxCaloriesRange": "0 - 1570",
         "dependentChoicePresent": false,
-        "caloriesInfo": "0 Cal."
+        "caloriesInfo": "960 Cal."
       },
       {
-        "_id": "68915dc9d12eb1d6638476e5",
-        "name": "Chicken Wing Bar",
+        "_id": "68a3122eb300cb80ac1ebb81",
+        "name": "Fajitas",
         "categoryIds": [
           "61bd80d05f2f930010bb6a81"
         ],
@@ -63,20 +64,20 @@
             "order": 0
           }
         ],
-        "description": "@CASCABEL: Protein Choice of Chicken Wings or Oven baked Plant-base Chicken Nuggets, Served with Straight cut Fries, Roasted Seasonal Vegetables, Carrot Sticks, Celery Sticks and choice of sauce.",
+        "description": "@CASCABEL: 6\" Flour Tortillas; Protein choice of Fajita Chicken w/ Peppers & Onions (4oz) or Fajita Abbot's Chick'N w/ Peppers & Onions. Cilantro Rice (4oz) and Pinto Beans ((4oz) and Toppings.",
         "status": "Active",
         "endDate": "2035-08-31T03:00:00.000Z",
         "order": 0,
         "imageUrl": "",
         "outOfStock": [],
         "isInfoMenu": false,
-        "menu_no": 28853,
-        "minmaxCaloriesRange": "210 - 990",
+        "menu_no": 29037,
+        "minmaxCaloriesRange": "240 - 1100",
         "dependentChoicePresent": false,
-        "caloriesInfo": "510 Cal."
+        "caloriesInfo": "830 Cal."
       },
       {
-        "_id": "68915bfdd12eb1d66384730a",
+        "_id": "68a30f78b300cb80ac1e9a9f",
         "name": "Mindful Meal",
         "categoryIds": [
           "61bd80d05f2f930010bb6a81"
@@ -89,21 +90,21 @@
             "order": 0
           }
         ],
-        "description": "@MINDFUL : Protein Choice of Chipotle Orange Chicken, Chipotle Orange Salmon or Chipotle Soy Chorizo Served with Roasted Seasonal Vegetables,  Tomato Brown Rice and Toppings.",
+        "description": "@MINDFUL : Protein Choice of  Mandarin Orange Chicken, Mandarin Orange Tilapia or Mandarin Orange Fable Shiitake w/ Veggies with Sides of Steamed Brown Rice, Power Blend Stir Fry and Toppings.",
         "status": "Active",
         "endDate": "2035-08-31T03:00:00.000Z",
         "order": 0,
         "imageUrl": "",
         "outOfStock": [],
         "isInfoMenu": false,
-        "menu_no": 28852,
-        "minmaxCaloriesRange": "230 - 1230",
+        "menu_no": 29036,
+        "minmaxCaloriesRange": "110 - 1330",
         "dependentChoicePresent": false,
-        "caloriesInfo": "560 Cal."
+        "caloriesInfo": "690 Cal."
       },
       {
-        "_id": "68915a3db300cb80acfe7662",
-        "name": "Korean Rice Plate",
+        "_id": "68a30f3fb300cb80ac1e98b4",
+        "name": "Brunch",
         "categoryIds": [
           "61bd80d05f2f930010bb6a81"
         ],
@@ -115,28 +116,22 @@
             "order": 0
           }
         ],
-        "description": "@LAKE WOK : Protein Choice of Ground Beef Bulgogi (4oz) or Impossible Steak Bulgogi(4oz), with Sides of Steamed Jasmine Rice (4oz), Stir Fry Veggies (4oz) Kim-Chi and Toppings.",
+        "description": "Pavilion Spring 2025 Brunch",
         "status": "Active",
         "endDate": "2035-08-31T03:00:00.000Z",
         "order": 0,
         "imageUrl": "",
         "outOfStock": [],
         "isInfoMenu": false,
-        "menu_no": 28851,
-        "minmaxCaloriesRange": "190 - 750",
+        "menu_no": 29035,
         "dependentChoicePresent": false,
-        "caloriesInfo": "560 Cal."
+        "caloriesInfo": "0 Cal."
       }
     ]
   },
   "lunch": {
     "enableOrdering": false,
     "menuGorups": [
-      {
-        "_id": "61bd808b5f2f930010bb6a7a",
-        "name": "SUNDAY",
-        "order": 0
-      },
       {
         "_id": "61bd808b5f2f930010bb6a7a",
         "name": "SUNDAY",
@@ -600,33 +595,7 @@
     ],
     "menuItems": [
       {
-        "_id": "6899dfb8902cf74448440106",
-        "name": "Breakfast",
-        "categoryIds": [
-          "61bd80d68b34640010e194b8"
-        ],
-        "menuGroupIds": [
-          {
-            "_id": "61bd808b5f2f930010bb6a7a",
-            "status": "Active",
-            "name": "SUNDAY",
-            "order": 0
-          }
-        ],
-        "description": "@LAKE WOK : Hot Oatmeal and Hot Cream of Wheat",
-        "status": "Active",
-        "endDate": "2035-08-31T03:00:00.000Z",
-        "order": 0,
-        "imageUrl": "",
-        "outOfStock": [],
-        "isInfoMenu": false,
-        "menu_no": 28925,
-        "minmaxCaloriesRange": "0 - 800",
-        "dependentChoicePresent": false,
-        "caloriesInfo": "800 Cal."
-      },
-      {
-        "_id": "68976301902cf744483c569a",
+        "_id": "68a77c48b300cb80ac2f3d8a",
         "name": "Breakfast / Brunch 9:00am - 2:30pm",
         "categoryIds": [
           "61bd80d68b34640010e194b8"
@@ -639,15 +608,15 @@
             "order": 0
           }
         ],
-        "description": "@CIAO : Protein Choice of Eggs: Scramble Eggs, Special Scramble of the Day, Chicken Apple Sauce, Vegan Tofu Scramble, Morning Star Breakfast Patties, Side of Breakfast Potatoes Cookies Choice, and Cook's Special: French Toast, Waffles, Pancakes, French Toast Casserole.",
+        "description": "@LAKE WOK : Protein Choice of Eggs: Scramble Eggs, Special Scramble of the Day, Chicken Apple Sauce, Vegan Tofu Scramble, Morning Star Breakfast Patties, Side of Breakfast Potatoes Cookies Choice, and Cook's Special: French Toast, Waffles, Pancakes, French Toast Casserole.",
         "status": "Active",
-        "endDate": "2035-08-31T03:00:00.000Z",
+        "endDate": "2035-08-01T07:00:00.000Z",
         "order": 0,
         "imageUrl": "",
         "outOfStock": [],
         "isInfoMenu": false,
-        "menu_no": 28911,
-        "minmaxCaloriesRange": "0 - 1430",
+        "menu_no": 29098,
+        "minmaxCaloriesRange": "0 - 2230",
         "dependentChoicePresent": false,
         "caloriesInfo": "640 Cal."
       },
