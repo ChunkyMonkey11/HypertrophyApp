@@ -10,12 +10,12 @@ MEAT_TERMS = {
 }
 
 def is_vegetarian(desc):
-    """Return True if no meat terms found in description."""
+   
     desc_lower = desc.lower()
     return not any(re.search(r"\b" + re.escape(meat) + r"\b", desc_lower) for meat in MEAT_TERMS)
 
 def parse_menu_file(filepath):
-    """Parse one JSON menu file for one day."""
+   
     day = os.path.splitext(os.path.basename(filepath))[0].replace("menus_", "")
     with open(filepath, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -49,7 +49,7 @@ def parse_menu_file(filepath):
     return parsed_items
 
 def parse_all_menu_files(folder_path):
-    """Parse all menu JSON files in the folder and combine parsed results."""
+    
     all_parsed = []
     for filename in os.listdir(folder_path):
         if filename.startswith("menus_") and filename.endswith(".json"):
