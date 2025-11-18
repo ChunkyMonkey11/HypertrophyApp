@@ -1,0 +1,1448 @@
+{
+  "breakfast": {
+    "enableOrdering": false,
+    "menuItems": [
+      {
+        "_id": "68a3145f902cf7444855a52a",
+        "name": "Greek Gyro",
+        "categoryIds": [
+          "61bd80d05f2f930010bb6a81"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          }
+        ],
+        "description": "@CIAO : Protein choice of Beef & Lamb or Greek Style Impossible Steak w/ Veggies (4oz) with sides of Roasted Tomatoes and Onions, Pita Bread (1pc) & Saffron Rice (4oz).  With Toppings.",
+        "status": "Active",
+        "endDate": "2035-08-31T03:00:00.000Z",
+        "order": 0,
+        "imageUrl": "",
+        "outOfStock": [],
+        "isInfoMenu": false,
+        "menu_no": 29038,
+        "minmaxCaloriesRange": "0 - 1570",
+        "dependentChoicePresent": false,
+        "caloriesInfo": "960 Cal."
+      },
+      {
+        "_id": "68a3122eb300cb80ac1ebb81",
+        "name": "Fajitas",
+        "categoryIds": [
+          "61bd80d05f2f930010bb6a81"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          }
+        ],
+        "description": "@CASCABEL: 6\" Flour Tortillas; Protein choice of Fajita Chicken w/ Peppers & Onions (4oz) or Fajita Abbot's Chick'N w/ Peppers & Onions. Cilantro Rice (4oz) and Pinto Beans ((4oz) and Toppings.",
+        "status": "Active",
+        "endDate": "2035-08-31T03:00:00.000Z",
+        "order": 0,
+        "imageUrl": "",
+        "outOfStock": [],
+        "isInfoMenu": false,
+        "menu_no": 29037,
+        "minmaxCaloriesRange": "240 - 1100",
+        "dependentChoicePresent": false,
+        "caloriesInfo": "830 Cal."
+      },
+      {
+        "_id": "68a30f78b300cb80ac1e9a9f",
+        "name": "Mindful Meal",
+        "categoryIds": [
+          "61bd80d05f2f930010bb6a81"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          }
+        ],
+        "description": "@MINDFUL : Protein Choice of  Mandarin Orange Chicken, Mandarin Orange Tilapia or Mandarin Orange Fable Shiitake w/ Veggies with Sides of Steamed Brown Rice, Power Blend Stir Fry and Toppings.",
+        "status": "Active",
+        "endDate": "2035-08-31T03:00:00.000Z",
+        "order": 0,
+        "imageUrl": "",
+        "outOfStock": [],
+        "isInfoMenu": false,
+        "menu_no": 29036,
+        "minmaxCaloriesRange": "110 - 1330",
+        "dependentChoicePresent": false,
+        "caloriesInfo": "690 Cal."
+      },
+      {
+        "_id": "68a30f3fb300cb80ac1e98b4",
+        "name": "Brunch",
+        "categoryIds": [
+          "61bd80d05f2f930010bb6a81"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          }
+        ],
+        "description": "Pavilion Spring 2025 Brunch",
+        "status": "Active",
+        "endDate": "2035-08-31T03:00:00.000Z",
+        "order": 0,
+        "imageUrl": "",
+        "outOfStock": [],
+        "isInfoMenu": false,
+        "menu_no": 29035,
+        "dependentChoicePresent": false,
+        "caloriesInfo": "0 Cal."
+      }
+    ],
+    "menuGroups": [
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      }
+    ]
+  },
+  "lunch": {
+    "enableOrdering": false,
+    "menuItems": [
+      {
+        "_id": "68a77c48b300cb80ac2f3d8a",
+        "name": "Breakfast / Brunch 9:00am - 2:30pm",
+        "categoryIds": [
+          "61bd80d68b34640010e194b8"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          }
+        ],
+        "description": "@LAKE WOK : Protein Choice of Eggs: Scramble Eggs, Special Scramble of the Day, Chicken Apple Sauce, Vegan Tofu Scramble, Morning Star Breakfast Patties, Side of Breakfast Potatoes Cookies Choice, and Cook's Special: French Toast, Waffles, Pancakes, French Toast Casserole.",
+        "status": "Active",
+        "endDate": "2035-08-01T07:00:00.000Z",
+        "order": 0,
+        "imageUrl": "",
+        "outOfStock": [],
+        "isInfoMenu": false,
+        "menu_no": 29098,
+        "minmaxCaloriesRange": "0 - 2230",
+        "dependentChoicePresent": false,
+        "caloriesInfo": "640 Cal."
+      },
+      {
+        "_id": "62dae4016c04ea0010489fa0",
+        "categoryIds": [
+          "61bd80d68b34640010e194b8",
+          "61ed97b39be79300147d3d06"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd80908b34640010e194b3",
+            "status": "Active",
+            "name": "MONDAY",
+            "order": 1
+          },
+          {
+            "_id": "61bd80ab5f2f930010bb6a7d",
+            "status": "Active",
+            "name": "TUESDAY",
+            "order": 2
+          },
+          {
+            "_id": "61bd80b08b34640010e194b4",
+            "status": "Active",
+            "name": "WEDNESDAY",
+            "order": 3
+          },
+          {
+            "_id": "61bd80b55f2f930010bb6a7e",
+            "status": "Active",
+            "name": "THURSDAY",
+            "order": 4
+          },
+          {
+            "_id": "61bd80ba5f2f930010bb6a7f",
+            "status": "Active",
+            "name": "FRIDAY",
+            "order": 5
+          },
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          },
+          {
+            "_id": "61bd80bf8b34640010e194b6",
+            "status": "Active",
+            "name": "SATURDAY",
+            "order": 6
+          }
+        ],
+        "status": "Active",
+        "order": 15,
+        "outOfStock": [],
+        "isInfoMenu": false,
+        "name": "Pastry & Bars",
+        "description": "Choice of Pastries & Bars",
+        "endDate": "2030-07-01T07:00:00.000Z",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-7/7171-screen-shot-2022-07-22-at-40853-pm.png",
+        "menu_no": 17266,
+        "minmaxCaloriesRange": "120 - 3030",
+        "dependentChoicePresent": false,
+        "caloriesInfo": "120 Cal."
+      },
+      {
+        "_id": "62dae17e20967b0010eb8442",
+        "categoryIds": [
+          "61bd80d68b34640010e194b8",
+          "61ed97b39be79300147d3d06"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd80908b34640010e194b3",
+            "status": "Active",
+            "name": "MONDAY",
+            "order": 1
+          },
+          {
+            "_id": "61bd80ab5f2f930010bb6a7d",
+            "status": "Active",
+            "name": "TUESDAY",
+            "order": 2
+          },
+          {
+            "_id": "61bd80b08b34640010e194b4",
+            "status": "Active",
+            "name": "WEDNESDAY",
+            "order": 3
+          },
+          {
+            "_id": "61bd80b55f2f930010bb6a7e",
+            "status": "Active",
+            "name": "THURSDAY",
+            "order": 4
+          },
+          {
+            "_id": "61bd80ba5f2f930010bb6a7f",
+            "status": "Active",
+            "name": "FRIDAY",
+            "order": 5
+          },
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          },
+          {
+            "_id": "61bd80bf8b34640010e194b6",
+            "status": "Active",
+            "name": "SATURDAY",
+            "order": 6
+          }
+        ],
+        "status": "Active",
+        "order": 17,
+        "outOfStock": [],
+        "isInfoMenu": false,
+        "name": "Pastry (Gluten Free)",
+        "description": "Gluten Free Pastries",
+        "endDate": "2031-07-06T07:00:00.000Z",
+        "imageUrl": "",
+        "menu_no": 17264,
+        "minmaxCaloriesRange": "130 - 780",
+        "dependentChoicePresent": false,
+        "caloriesInfo": "130 Cal."
+      },
+      {
+        "_id": "62dae2f420967b0010eb84ec",
+        "categoryIds": [
+          "61bd80d68b34640010e194b8",
+          "61ed97b39be79300147d3d06"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd80908b34640010e194b3",
+            "status": "Active",
+            "name": "MONDAY",
+            "order": 1
+          },
+          {
+            "_id": "61bd80ab5f2f930010bb6a7d",
+            "status": "Active",
+            "name": "TUESDAY",
+            "order": 2
+          },
+          {
+            "_id": "61bd80b08b34640010e194b4",
+            "status": "Active",
+            "name": "WEDNESDAY",
+            "order": 3
+          },
+          {
+            "_id": "61bd80b55f2f930010bb6a7e",
+            "status": "Active",
+            "name": "THURSDAY",
+            "order": 4
+          },
+          {
+            "_id": "61bd80ba5f2f930010bb6a7f",
+            "status": "Active",
+            "name": "FRIDAY",
+            "order": 5
+          },
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          },
+          {
+            "_id": "61bd80bf8b34640010e194b6",
+            "status": "Active",
+            "name": "SATURDAY",
+            "order": 6
+          }
+        ],
+        "status": "Active",
+        "order": 18,
+        "outOfStock": [],
+        "isInfoMenu": false,
+        "name": "Pastry (Vegan)",
+        "description": "Vegan Pastries",
+        "endDate": "2030-07-07T07:00:00.000Z",
+        "imageUrl": "",
+        "menu_no": 17265,
+        "minmaxCaloriesRange": "130 - 510",
+        "dependentChoicePresent": false,
+        "caloriesInfo": "130 Cal."
+      },
+      {
+        "_id": "61e76ee19be79300147bec99",
+        "categoryIds": [
+          "61bd80d68b34640010e194b8",
+          "61ed97b39be79300147d3d06"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd80908b34640010e194b3",
+            "status": "Active",
+            "name": "MONDAY",
+            "order": 1
+          },
+          {
+            "_id": "61bd80ab5f2f930010bb6a7d",
+            "status": "Active",
+            "name": "TUESDAY",
+            "order": 2
+          },
+          {
+            "_id": "61bd80b08b34640010e194b4",
+            "status": "Active",
+            "name": "WEDNESDAY",
+            "order": 3
+          },
+          {
+            "_id": "61bd80b55f2f930010bb6a7e",
+            "status": "Active",
+            "name": "THURSDAY",
+            "order": 4
+          },
+          {
+            "_id": "61bd80ba5f2f930010bb6a7f",
+            "status": "Active",
+            "name": "FRIDAY",
+            "order": 5
+          },
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          },
+          {
+            "_id": "61bd80bf8b34640010e194b6",
+            "status": "Active",
+            "name": "SATURDAY",
+            "order": 6
+          }
+        ],
+        "status": "Active",
+        "order": 19,
+        "outOfStock": [],
+        "name": "Cereal",
+        "description": "Choice of Fruit Loops, Mini Wheats or Granola",
+        "endDate": "2030-05-12T07:00:00.000Z",
+        "menu_no": 15198,
+        "minmaxCaloriesRange": "0 - 1030",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/1286-fruit-loops.jpg",
+        "isInfoMenu": false,
+        "dependentChoicePresent": false,
+        "caloriesInfo": "330 Cal."
+      },
+      {
+        "_id": "61e88a659be79300147c2530",
+        "categoryIds": [
+          "61bd80d68b34640010e194b8",
+          "61ed97b39be79300147d3d06"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd80908b34640010e194b3",
+            "status": "Active",
+            "name": "MONDAY",
+            "order": 1
+          },
+          {
+            "_id": "61bd80ab5f2f930010bb6a7d",
+            "status": "Active",
+            "name": "TUESDAY",
+            "order": 2
+          },
+          {
+            "_id": "61bd80b08b34640010e194b4",
+            "status": "Active",
+            "name": "WEDNESDAY",
+            "order": 3
+          },
+          {
+            "_id": "61bd80b55f2f930010bb6a7e",
+            "status": "Active",
+            "name": "THURSDAY",
+            "order": 4
+          },
+          {
+            "_id": "61bd80ba5f2f930010bb6a7f",
+            "status": "Active",
+            "name": "FRIDAY",
+            "order": 5
+          },
+          {
+            "_id": "61bd80bf8b34640010e194b6",
+            "status": "Active",
+            "name": "SATURDAY",
+            "order": 6
+          },
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          }
+        ],
+        "status": "Active",
+        "order": 20,
+        "outOfStock": [],
+        "name": "Cream Cheese",
+        "description": "Cream Cheese",
+        "endDate": "2030-05-12T07:00:00.000Z",
+        "menu_no": 15207,
+        "minmaxCaloriesRange": "60 - 130",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/4810-cream-cheese.png",
+        "isInfoMenu": false,
+        "dependentChoicePresent": false,
+        "caloriesInfo": "70 Cal."
+      },
+      {
+        "_id": "61e85afd9be79300147c16ba",
+        "categoryIds": [
+          "61bd80d68b34640010e194b8",
+          "61ed97b39be79300147d3d06"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd80908b34640010e194b3",
+            "status": "Active",
+            "name": "MONDAY",
+            "order": 1
+          },
+          {
+            "_id": "61bd80ab5f2f930010bb6a7d",
+            "status": "Active",
+            "name": "TUESDAY",
+            "order": 2
+          },
+          {
+            "_id": "61bd80b08b34640010e194b4",
+            "status": "Active",
+            "name": "WEDNESDAY",
+            "order": 3
+          },
+          {
+            "_id": "61bd80b55f2f930010bb6a7e",
+            "status": "Active",
+            "name": "THURSDAY",
+            "order": 4
+          },
+          {
+            "_id": "61bd80ba5f2f930010bb6a7f",
+            "status": "Active",
+            "name": "FRIDAY",
+            "order": 5
+          },
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          },
+          {
+            "_id": "61bd80bf8b34640010e194b6",
+            "status": "Active",
+            "name": "SATURDAY",
+            "order": 6
+          }
+        ],
+        "status": "Active",
+        "order": 21,
+        "outOfStock": [],
+        "name": "Cereal (Gluten Free)",
+        "description": "Gluten free Cereals",
+        "endDate": "2030-05-12T07:00:00.000Z",
+        "menu_no": 15199,
+        "minmaxCaloriesRange": "300 - 1670",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/7833-cereal.png",
+        "isInfoMenu": false,
+        "dependentChoicePresent": false,
+        "caloriesInfo": "300 Cal."
+      },
+      {
+        "_id": "61e88f3c9be79300147c26e5",
+        "categoryIds": [
+          "61bd80d68b34640010e194b8",
+          "61ed97b39be79300147d3d06"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd80908b34640010e194b3",
+            "status": "Active",
+            "name": "MONDAY",
+            "order": 1
+          },
+          {
+            "_id": "61bd80ab5f2f930010bb6a7d",
+            "status": "Active",
+            "name": "TUESDAY",
+            "order": 2
+          },
+          {
+            "_id": "61bd80b08b34640010e194b4",
+            "status": "Active",
+            "name": "WEDNESDAY",
+            "order": 3
+          },
+          {
+            "_id": "61bd80b55f2f930010bb6a7e",
+            "status": "Active",
+            "name": "THURSDAY",
+            "order": 4
+          },
+          {
+            "_id": "61bd80ba5f2f930010bb6a7f",
+            "status": "Active",
+            "name": "FRIDAY",
+            "order": 5
+          },
+          {
+            "_id": "61bd80bf8b34640010e194b6",
+            "status": "Active",
+            "name": "SATURDAY",
+            "order": 6
+          },
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          }
+        ],
+        "status": "Active",
+        "order": 22,
+        "outOfStock": [],
+        "name": "Drinks",
+        "description": "Choice of Hot Chocolate, Coffee, Decaf Coffee",
+        "endDate": "2030-05-12T07:00:00.000Z",
+        "menu_no": 15208,
+        "minmaxCaloriesRange": "0 - 90",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/5341-coffee.jpg",
+        "isInfoMenu": false,
+        "dependentChoicePresent": false,
+        "caloriesInfo": "0 Cal."
+      },
+      {
+        "_id": "61e893f5a08afa00102047ad",
+        "categoryIds": [
+          "61bd80d68b34640010e194b8",
+          "61ed97b39be79300147d3d06"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd80908b34640010e194b3",
+            "status": "Active",
+            "name": "MONDAY",
+            "order": 1
+          },
+          {
+            "_id": "61bd80ab5f2f930010bb6a7d",
+            "status": "Active",
+            "name": "TUESDAY",
+            "order": 2
+          },
+          {
+            "_id": "61bd80b08b34640010e194b4",
+            "status": "Active",
+            "name": "WEDNESDAY",
+            "order": 3
+          },
+          {
+            "_id": "61bd80b55f2f930010bb6a7e",
+            "status": "Active",
+            "name": "THURSDAY",
+            "order": 4
+          },
+          {
+            "_id": "61bd80ba5f2f930010bb6a7f",
+            "status": "Active",
+            "name": "FRIDAY",
+            "order": 5
+          },
+          {
+            "_id": "61bd80bf8b34640010e194b6",
+            "status": "Active",
+            "name": "SATURDAY",
+            "order": 6
+          },
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          }
+        ],
+        "status": "Active",
+        "order": 23,
+        "outOfStock": [],
+        "name": "Tea",
+        "description": "Choice of Teas",
+        "endDate": "2030-05-12T07:00:00.000Z",
+        "menu_no": 15209,
+        "minmaxCaloriesRange": "0",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/9454-tea.jpg",
+        "isInfoMenu": false,
+        "dependentChoicePresent": false,
+        "caloriesInfo": "0 Cal."
+      },
+      {
+        "_id": "61e8a9e19be79300147c2dfb",
+        "categoryIds": [
+          "61bd80d68b34640010e194b8",
+          "61ed97b39be79300147d3d06"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd80908b34640010e194b3",
+            "status": "Active",
+            "name": "MONDAY",
+            "order": 1
+          },
+          {
+            "_id": "61bd80ab5f2f930010bb6a7d",
+            "status": "Active",
+            "name": "TUESDAY",
+            "order": 2
+          },
+          {
+            "_id": "61bd80b08b34640010e194b4",
+            "status": "Active",
+            "name": "WEDNESDAY",
+            "order": 3
+          },
+          {
+            "_id": "61bd80b55f2f930010bb6a7e",
+            "status": "Active",
+            "name": "THURSDAY",
+            "order": 4
+          },
+          {
+            "_id": "61bd80ba5f2f930010bb6a7f",
+            "status": "Active",
+            "name": "FRIDAY",
+            "order": 5
+          },
+          {
+            "_id": "61bd80bf8b34640010e194b6",
+            "status": "Active",
+            "name": "SATURDAY",
+            "order": 6
+          },
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          }
+        ],
+        "status": "Active",
+        "order": 24,
+        "outOfStock": [],
+        "name": "Creamers",
+        "description": "Choice of Original, Hazelnut, and French Vanilla",
+        "endDate": "2030-05-12T07:00:00.000Z",
+        "menu_no": 15212,
+        "minmaxCaloriesRange": "0 - 20",
+        "isInfoMenu": false,
+        "dependentChoicePresent": false,
+        "caloriesInfo": "10 Cal."
+      },
+      {
+        "_id": "61e898cba08afa00102048d2",
+        "categoryIds": [
+          "61bd80d68b34640010e194b8",
+          "61ed97b39be79300147d3d06"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd80908b34640010e194b3",
+            "status": "Active",
+            "name": "MONDAY",
+            "order": 1
+          },
+          {
+            "_id": "61bd80ab5f2f930010bb6a7d",
+            "status": "Active",
+            "name": "TUESDAY",
+            "order": 2
+          },
+          {
+            "_id": "61bd80b08b34640010e194b4",
+            "status": "Active",
+            "name": "WEDNESDAY",
+            "order": 3
+          },
+          {
+            "_id": "61bd80b55f2f930010bb6a7e",
+            "status": "Active",
+            "name": "THURSDAY",
+            "order": 4
+          },
+          {
+            "_id": "61bd80ba5f2f930010bb6a7f",
+            "status": "Active",
+            "name": "FRIDAY",
+            "order": 5
+          },
+          {
+            "_id": "61bd80bf8b34640010e194b6",
+            "status": "Active",
+            "name": "SATURDAY",
+            "order": 6
+          },
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          }
+        ],
+        "status": "Active",
+        "order": 25,
+        "outOfStock": [],
+        "name": "Milk",
+        "description": "Choice of Milk, Chocolate Milk, and 2%",
+        "endDate": "2030-05-12T07:00:00.000Z",
+        "menu_no": 15210,
+        "minmaxCaloriesRange": "120 - 460",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/2606-milk.png",
+        "isInfoMenu": false,
+        "dependentChoicePresent": false,
+        "caloriesInfo": "120 Cal."
+      },
+      {
+        "_id": "61e89ab4a08afa001020495a",
+        "categoryIds": [
+          "61bd80d68b34640010e194b8",
+          "61ed97b39be79300147d3d06"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd80908b34640010e194b3",
+            "status": "Active",
+            "name": "MONDAY",
+            "order": 1
+          },
+          {
+            "_id": "61bd80ab5f2f930010bb6a7d",
+            "status": "Active",
+            "name": "TUESDAY",
+            "order": 2
+          },
+          {
+            "_id": "61bd80b08b34640010e194b4",
+            "status": "Active",
+            "name": "WEDNESDAY",
+            "order": 3
+          },
+          {
+            "_id": "61bd80b55f2f930010bb6a7e",
+            "status": "Active",
+            "name": "THURSDAY",
+            "order": 4
+          },
+          {
+            "_id": "61bd80ba5f2f930010bb6a7f",
+            "status": "Active",
+            "name": "FRIDAY",
+            "order": 5
+          },
+          {
+            "_id": "61bd80bf8b34640010e194b6",
+            "status": "Active",
+            "name": "SATURDAY",
+            "order": 6
+          },
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          }
+        ],
+        "status": "Active",
+        "order": 26,
+        "outOfStock": [],
+        "name": "Milk Alternative",
+        "description": "Choice of Soy Milk, Soy Chocolate Milk",
+        "endDate": "2030-05-12T07:00:00.000Z",
+        "menu_no": 15211,
+        "minmaxCaloriesRange": "0 - 460",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/7067-soy-milk.jpg",
+        "isInfoMenu": false,
+        "dependentChoicePresent": false,
+        "caloriesInfo": "80 Cal."
+      },
+      {
+        "_id": "61e8ad1aa08afa0010204db1",
+        "categoryIds": [
+          "61bd80d68b34640010e194b8",
+          "61ed97b39be79300147d3d06"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd80908b34640010e194b3",
+            "status": "Active",
+            "name": "MONDAY",
+            "order": 1
+          },
+          {
+            "_id": "61bd80ab5f2f930010bb6a7d",
+            "status": "Active",
+            "name": "TUESDAY",
+            "order": 2
+          },
+          {
+            "_id": "61bd80b08b34640010e194b4",
+            "status": "Active",
+            "name": "WEDNESDAY",
+            "order": 3
+          },
+          {
+            "_id": "61bd80b55f2f930010bb6a7e",
+            "status": "Active",
+            "name": "THURSDAY",
+            "order": 4
+          },
+          {
+            "_id": "61bd80ba5f2f930010bb6a7f",
+            "status": "Active",
+            "name": "FRIDAY",
+            "order": 5
+          },
+          {
+            "_id": "61bd80bf8b34640010e194b6",
+            "status": "Active",
+            "name": "SATURDAY",
+            "order": 6
+          },
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          }
+        ],
+        "status": "Active",
+        "order": 27,
+        "outOfStock": [],
+        "name": "Sugar",
+        "description": "Choice of cane sugar, Equal, and Sweet Plus sweetners",
+        "endDate": "2030-05-12T07:00:00.000Z",
+        "menu_no": 15213,
+        "minmaxCaloriesRange": "0 - 45",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/6558-sugar.jpg",
+        "isInfoMenu": false,
+        "dependentChoicePresent": false,
+        "caloriesInfo": "30 Cal."
+      },
+      {
+        "_id": "61e87db4a08afa0010203ffc",
+        "categoryIds": [
+          "61bd80d68b34640010e194b8",
+          "61ed97b39be79300147d3d06"
+        ],
+        "menuGroupIds": [
+          {
+            "_id": "61bd80908b34640010e194b3",
+            "status": "Active",
+            "name": "MONDAY",
+            "order": 1
+          },
+          {
+            "_id": "61bd80ab5f2f930010bb6a7d",
+            "status": "Active",
+            "name": "TUESDAY",
+            "order": 2
+          },
+          {
+            "_id": "61bd80b08b34640010e194b4",
+            "status": "Active",
+            "name": "WEDNESDAY",
+            "order": 3
+          },
+          {
+            "_id": "61bd80b55f2f930010bb6a7e",
+            "status": "Active",
+            "name": "THURSDAY",
+            "order": 4
+          },
+          {
+            "_id": "61bd80ba5f2f930010bb6a7f",
+            "status": "Active",
+            "name": "FRIDAY",
+            "order": 5
+          },
+          {
+            "_id": "61bd808b5f2f930010bb6a7a",
+            "status": "Active",
+            "name": "SUNDAY",
+            "order": 0
+          },
+          {
+            "_id": "61bd80bf8b34640010e194b6",
+            "status": "Active",
+            "name": "SATURDAY",
+            "order": 6
+          }
+        ],
+        "status": "Active",
+        "order": 28,
+        "outOfStock": [],
+        "name": "Condiments",
+        "description": "Choice of  Peanut Butter, Fruit Jelly, Grape Jelly, Butter",
+        "endDate": "2030-05-12T07:00:00.000Z",
+        "menu_no": 15202,
+        "minmaxCaloriesRange": "0 - 230",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/9967-condiments.jpg",
+        "isInfoMenu": false,
+        "dependentChoicePresent": false,
+        "caloriesInfo": "35 Cal."
+      }
+    ],
+    "menuGroups": [
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      }
+    ]
+  },
+  "dinner": {
+    "enableOrdering": false,
+    "menuItems": [],
+    "menuGroups": []
+  }
+}
